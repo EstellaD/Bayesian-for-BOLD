@@ -35,5 +35,9 @@ While in general, the proposed approach can successfully recover all powers (<im
 
 ## References
 [1] Arthurs, O. J., & Boniface, S. (2002). "How well do we understand the neural origins of the fMRI BOLD signal?" *Trends in Neurosciences*, 25(1), 27–31. [https://doi.org/10.1016/S0166-2236(00)01995-0]
+
 [2] Zhang, L., Guindani, M., & Vannucci, M. (2015). "Bayesian Models for fMRI Data Analysis." *Computational Statistics*, 7(1), 21–41. [https://doi.org/10.1002/wics.1339]
+
 [3] AD Elster, ELSTER LLC. (2020). "BOLD and Brain Activity". *Questions and Answers in MRI*. [http://mriquestions.com/does-boldbrain-activity.html]
+
+[4] Relationship between MAP inference and regularization in GLMs. [http://pillowlab.princeton.edu/teaching/statneuro2020/notes/notes13_MAP.pdf]
